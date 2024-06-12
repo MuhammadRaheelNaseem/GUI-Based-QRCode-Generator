@@ -1,7 +1,3 @@
-Certainly! Let's transform your script into a comprehensive GitHub README file.
-
----
-
 # QR Code Generation App with Python
 
 This Python application allows users to generate QR codes with various visual styles by specifying a URL and selecting a module drawer. The generated QR code can be saved and displayed within the application.
