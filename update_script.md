@@ -147,7 +147,7 @@ Here's the updated Python script incorporating the "Save QR Code" functionality:
 
 python
 # src/main.py
-
+```python
 import tkinter as tk
 from tkinter import ttk, messagebox, filedialog
 import qrcode
@@ -293,6 +293,8 @@ save_button = ttk.Button(root, text="Save QR Code", command=save_qr_code, state=
 save_button.grid(row=4, column=0, columnspan=2, padx=10, pady=20)
 
 root.mainloop()
+
+```
 
 
 *Notes:*
